@@ -1,0 +1,5 @@
+;; communications error to 192.168.1.7#53: timed out
+;; communications error to 192.168.1.7#53: timed out
+;; communications error to 192.168.1.7#53: timed out
+;; no servers could be reached
+
